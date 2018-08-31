@@ -15,7 +15,7 @@ Projeto criado com IntelliJ IDEA
     4. Ocultar um componente
     5. Clique em um item de uma ListView
 3. Layouts
-    1. Menu Lateral
-    2. Exemplo de ImageView
-    3. Botão com ícone
+    1. [Menu Lateral](src/br/com/leandersonandre/javafx/exemplos/layout/menulateral)
+    2. [Exemplo de ImageView](src/br/com/leandersonandre/javafx/exemplos/layout/imagem)
+    3. [Botão com ícone](src/br/com/leandersonandre/javafx/exemplos/layout/botaocomicone)
     4. [TableView](src/br/com/leandersonandre/javafx/exemplos/layout/tableview)
