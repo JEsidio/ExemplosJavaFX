@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.TableColumn?>
+<?import javafx.scene.control.TableView?>
+<?import javafx.scene.control.cell.PropertyValueFactory?>
+<?import javafx.scene.layout.ColumnConstraints?>
+<?import javafx.scene.layout.GridPane?>
+<?import javafx.scene.layout.Pane?>
+<?import javafx.scene.layout.RowConstraints?>
+
+<GridPane alignment="center" hgap="10" style="-fx-background-color: #ffffff;" vgap="10" xmlns="http://javafx.com/javafx/8.0.121" xmlns:fx="http://javafx.com/fxml/1" fx:controller="br.com.leandersonandre.javafx.exemplos.layout.tableview.Controller">
+   <columnConstraints>
+      <ColumnConstraints />
+   </columnConstraints>
+   <rowConstraints>
+      <RowConstraints />
+   </rowConstraints>
+   <children>
+      <Pane prefHeight="400.0" prefWidth="600.0">
+         <children>
+            <TableView fx:id="tableView" prefHeight="400.0" prefWidth="650.0">
+              <columns>
+                <TableColumn prefWidth="50.0" text="ID">
+                    <cellValueFactory>
+                        <PropertyValueFactory property="id" />
+                    </cellValueFactory>
+                </TableColumn>
+                  <TableColumn prefWidth="200.0" text="Nome">
+                      <cellValueFactory>
+                          <PropertyValueFactory property="name" />
+                      </cellValueFactory>
+                  </TableColumn>
+                  <TableColumn prefWidth="200.0" text="Sobrenome" >
+                      <cellValueFactory>
+                          <PropertyValueFactory property="surname" />
+                      </cellValueFactory>
+                  </TableColumn>
+                  <TableColumn prefWidth="200.0" text="Email">
+                      <cellValueFactory>
+                          <PropertyValueFactory property="email" />
+                      </cellValueFactory>
+                  </TableColumn>
+              </columns>
+            </TableView>
+         </children></Pane>
+   </children>
+</GridPane>
