@@ -24,9 +24,13 @@ Projeto criado com IntelliJ IDEA
 
 ![alt text](assets/imagens/sample_menulateral.png "Logo Title Text 1") 
 
+Acesse o [exemplo completo](br/com/leandersonandre/javafx/exemplos/layout/menulateral).
+
 ## Botão com ícone
 
 ![alt text](assets/imagens/sample_botaoicone.png "Logo Title Text 1")    
+
+Acesse o [exemplo completo](br/com/leandersonandre/javafx/exemplos/layout/botaocomicone).
     
 ## TableView
 
