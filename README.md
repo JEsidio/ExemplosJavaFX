@@ -17,12 +17,16 @@ Projeto criado com IntelliJ IDEA
 3. Layouts
     1. [Menu Lateral](#menu-lateral)
     2. [Exemplo de ImageView](src/br/com/leandersonandre/javafx/exemplos/layout/imagem)
-    3. [Botão com ícone](src/br/com/leandersonandre/javafx/exemplos/layout/botaocomicone)
+    3. [Botão com ícone](#botão-com-ícone)
     4. [TableView](#tableview)
     
 ## Menu Lateral
 
-![alt text](assets/imagens/sample_menulateral.png "Logo Title Text 1")    
+![alt text](assets/imagens/sample_menulateral.png "Logo Title Text 1") 
+
+## Botão com ícone
+
+![alt text](assets/imagens/sample_botaoicone.png "Logo Title Text 1")    
     
 ## TableView
 
