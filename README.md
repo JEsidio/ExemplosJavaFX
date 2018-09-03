@@ -19,6 +19,8 @@ Projeto criado com IntelliJ IDEA
     2. [Exemplo de ImageView](src/br/com/leandersonandre/javafx/exemplos/layout/imagem)
     3. [Botão com ícone](#botão-com-ícone)
     4. [TableView](#tableview)
+    5. [TableView com botão](src/br/com/leandersonandre/javafx/exemplos/layout/tableviewcombotao)
+                                  
     
 ## Menu Lateral
 
