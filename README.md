@@ -14,6 +14,7 @@ Projeto criado com IntelliJ IDEA
     3. Obter valor do campo de texto
     4. Ocultar um componente
     5. Clique em um item de uma ListView
+    6. [Duplo clique em um registro em um TableView](src/br/com/leandersonandre/javafx/exemplos/acoes/duploclicknoregistrotableview)
 3. Layouts
     1. [Menu Lateral](#menu-lateral)
     2. [Exemplo de ImageView](src/br/com/leandersonandre/javafx/exemplos/layout/imagem)
