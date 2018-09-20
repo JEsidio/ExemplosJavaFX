@@ -21,7 +21,7 @@ Projeto criado com IntelliJ IDEA
     3. [Botão com ícone](#botão-com-ícone)
     4. [TableView](#tableview)
     5. [TableView com botão](src/br/com/leandersonandre/javafx/exemplos/layout/tableviewcombotao)
-                                  
+    6. [Ajuste de Layout Automático](src/br/com/leandersonandre/javafx/exemplos/layout/ajustelayoutautomatico)                             
     
 ## Menu Lateral
 
